@@ -1,6 +1,6 @@
 EntryMon monitors entry of visitors to historical monuments.
 
-Technology used:
+Technology used:<br>
 Servlet<br>
 JSP<br>
 HTML<br>
